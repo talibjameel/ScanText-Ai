@@ -1,17 +1,21 @@
-# image_to_text_app
+# ScanText AI 📱🔍
 
-A new Flutter project.
+**ScanText AI** is a completely offline mobile application built using Flutter that lets you extract text from images—whether captured through the camera or selected from the gallery—with no internet needed!
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- 📷 Pick images from gallery or take photos directly
+- 🧠 Offline OCR (Optical Character Recognition)
+- ✂️ Custom text selection from highlighted regions
+- 📋 Easy copy-to-clipboard functionality
+- 🌐 Multi-language text recognition (Coming Soon!)
+- 💡 Lightweight & privacy-first
 
-A few resources to get you started if this is your first Flutter project:
+## 🔧 Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter (Cross-platform UI)
+- Tesseract OCR (for offline text recognition)
+- Provider (State management)
+- Image Picker
+- Custom Painter for text highlight overlay
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# ScanText-Ai
